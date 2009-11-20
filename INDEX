@@ -1,0 +1,4 @@
+LogitNet.weight      A function for deriving the weights to account for the spacial correlation.
+LogitNet         A function for estimating the LogitNet model. 
+LogitNet.CV      A function for fitting LogitNet models for a series of tuning parameters and returning the corresponding cross validation errors.
+

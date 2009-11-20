@@ -1,0 +1,2 @@
+useDynLib(LogitNet)
+export(LogitNet.weight,LogitNet, LogitNet.CV)
